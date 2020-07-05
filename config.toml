@@ -29,8 +29,8 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Xiaozhu Zhang"
-		tagline = "Master Candidate of Statistical Science"
-		location = "Duke University, Durham, NC"
+	    	tagline = "Master Candidate of Statistical Science"
+		    location = "Duke University, Durham, NC"
         photo = "profile.jpg"
 
     # Section for links to social websites
