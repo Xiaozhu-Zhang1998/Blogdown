@@ -1,10 +1,8 @@
+baseURL = "https://xzzhang.netlify.app"
 canonifyurls = true
 relativeURLs = true
 publishDir = "../xzzhang.netlify.app"
 
-
-
-baseURL = "https://xzzhang.netlify.app"
 languageCode = "en-us"
 theme = "aafu"
 
